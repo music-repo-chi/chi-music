@@ -12,6 +12,6 @@
 ### 音乐url
 https://raw.githubusercontent.com/music-repo-chi/chi-music/master/ + {歌手名} + / + ｛歌名｝
 如：
-[https://raw.githubusercontent.com/music-repo-chi/chi-music/master/周杰伦/七里香.mp3]
-(https://raw.githubusercontent.com/music-repo-chi/chi-music/master/周杰伦/七里香.mp3)
+https://raw.githubusercontent.com/music-repo-chi/chi-music/master/周杰伦/七里香-周杰伦.mp3
+
 
